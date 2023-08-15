@@ -1,9 +1,22 @@
 Headline: Sophia Emmanouilidou: Composer - Sound Designer, Producer | Flutist & Pianist, Educator by passion
 
 colors: orange, navy blue, white and grey 
+
+My image on the left side 
+The following text as graphic that progresses:
+
+Sophia
+Sonya
+Sonem
+Emma
+Emmion
+Emmionel
+many allieses one person
+your music teacher
+yout music tutor 
  
 Navigation Barline:
- 1. Home
+1. Home
 
  * My image and a catchy phrase conecting my niche
  * Recent releases of digital collections
@@ -13,27 +26,29 @@ Navigation Barline:
  * Listen: Spotify, Youtube, Bandcamp, Soundcloud
    
 2. Bio
-copy past as below:
+
+ * copy past as below:
 
 ...
 PENDING
 ...
 
-Merchandise
-* bags, t-shirts and cups with motivational music quotes
-* music toys and little instruments
-* discounts and coupons 
+3. Merchandise
 
-3. Works and Media
+ * bags, t-shirts and cups with motivational music quotes
+ * music toys and little instruments
+ * discounts and coupons 
+
+4. Works and Media
 
  * List of written compositions and electroacoustic compositions and productions 
-  * Written as a timeline of events
+   * Written as a timeline of events
  * videos of my appearances online
-  * Written as a timeline of events
+   * Written as a timeline of events
  * performances 
    * Written as a timeline of events
   
-4. Book an apointment with me
+5. Book an apointment with me
 
 * all payments are made by paypal
 
@@ -50,33 +65,33 @@ Merchandise
    c. as an educator in
      
     i. FLUTE
-      * 25min call - 44$
-      * 45 min call - 74$
-      * 60 min call - 94$
+       * 25min call - 44$
+       * 45 min call - 74$
+       * 60 min call - 94$
    
     ii. PIANO
-      * 25min call - 44$
-      * 45 min call - 74$
-      * 60 min call - 94$
+       * 25min call - 44$
+       * 45 min call - 74$
+       * 60 min call - 94$
       
     iii. VOCALS
-      * 25min call - 44$
-      * 45 min call - 74$
-      * 60 min call - 94$
+       * 25min call - 44$
+       * 45 min call - 74$
+       * 60 min call - 94$
 
     iv. MIXING
-      * 25min call - 44$
-      * 45 min call - 74$
-      * 60 min call - 94$
+       * 25min call - 44$
+       * 45 min call - 74$
+       * 60 min call - 94$
 
     v.PRODUCING
-      * 25min call - 44$
-      * 45 min call - 74$
-      * 60 min call - 94$
+       * 25min call - 44$
+       * 45 min call - 74$
+       * 60 min call - 94$
 
  Different prices for EU and overseas clients
 
-5. Events
+6. Events
 
  * Callendar form
  * appearances and performances etc.
@@ -84,7 +99,8 @@ Merchandise
  * Tiktok lives
    
    
-6. Contact
+7. Contact
+
  * Basic contact box
  * information: sophie.emmion@hotmail.gr
  
