@@ -64,15 +64,15 @@ PENDING
    
    c. as an educator in
      
-    i. FLUTE
+       i. FLUTE
        * 25min call - 44$
-       * 45 min call - 74$
-       * 60 min call - 94$
+    * 45 min call - 74$
+    * 60 min call - 94$
    
     ii. PIANO
-       * 25min call - 44$
-       * 45 min call - 74$
-       * 60 min call - 94$
+    * 25min call - 44$
+    * 45 min call - 74$
+    * 60 min call - 94$
       
     iii. VOCALS
        * 25min call - 44$
@@ -82,14 +82,14 @@ PENDING
     iv. MIXING
        * 25min call - 44$
        * 45 min call - 74$
-       * 60 min call - 94$
+       * 60 min call - 94$     
 
     v.PRODUCING
        * 25min call - 44$
        * 45 min call - 74$
        * 60 min call - 94$
 
- Different prices for EU and overseas clients
+ Different prices for EU/UK and overseas clients
 
 6. Events
 
