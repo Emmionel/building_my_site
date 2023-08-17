@@ -2,6 +2,8 @@ Headline: Sophia Emmanouilidou: Composer - Sound Designer, Producer | Flutist & 
 
 colors: orange, navy blue, white and grey 
 
+<u>Languages of the site</u>: English and Greek. The basic site will be in English and Greek is as second language
+
 My image on the left side 
 The following text as graphic that progresses:
 
@@ -12,9 +14,10 @@ Emma
 Emmion
 Emmionel
 many allieses one person
-your music teacher
-yout music tutor 
- 
+more than a music teacher
+YOUR music teacher
+YOUR music tutor 
+
 Navigation Barline:
 1. Home
 
@@ -36,6 +39,7 @@ PENDING
 3. Merchandise
 
  * bags, t-shirts and cups with motivational music quotes
+ * stickers and notes
  * music toys and little instruments
  * discounts and coupons 
 
@@ -53,43 +57,72 @@ PENDING
 * all payments are made by paypal
 
    a. as a musicpreneur
-    * 25min call - 44$
-    * 45 min call - 74$
-    * 60 min call - 94$
+    * 25min call - $64 - £24 - 24€ 
+    * 45 min call - $104 - £44 - 44€
+    * 60 min call - $124 - £64 - 64€
   
    b. as an artist
-    * 25min call - 44$
-    * 45 min call - 74$
-    * 60 min call - 94$
+    * 25min call - $64 - £24 - 24€ 
+    * 45 min call - $104 - £44 - 44€
+    * 60 min call - $124 - £64 - 64€
    
    c. as an educator in
      
        i. FLUTE
-    * 25min call - 44$
-    * 45 min call - 74$
-    * 60 min call - 94$
+    * 25min call - $44 - £14 - 14€
+    * 45 min call - $74 - £34 - 34€
+    * 60 min call - $94 - £44 - 44€
    
        ii. PIANO
-    * 25min call - 44$
-    * 45 min call - 74$
-    * 60 min call - 94$
+    * 25min call - $44 - £14 - 14€
+    * 45 min call - $74 - £34 - 34€
+    * 60 min call - $94 - £44 - 44€
       
        iii. VOCALS
-    * 25min call - 44$
-    * 45 min call - 74$
-    * 60 min call - 94$
+    * 25min call - $44 - £14 - 14€
+    * 45 min call - $74 - £34 - 34€
+    * 60 min call - $94 - £44 - 44€
 
-       iv. MIXING
-    * 25min call - 44$
-    * 45 min call - 74$
-    * 60 min call - 94$     
+       iv. MUSIC THEORY 
+    * 25min call - $44 - £14 - 14€
+    * 45 min call - $74 - £34 - 34€
+    * 60 min call - $94 - £44 - 44€
 
-       v.PRODUCING
-    * 25min call - 44$
-    * 45 min call - 74$
-    * 60 min call - 94$
+       v. HARMONY
+    * 25min call - $44 - £14 - 14€
+    * 45 min call - $74 - £34 - 34€
+    * 60 min call - $94 - £44 - 44€
+
+       vi. COMPOSITION
+    * 25min call - $64 - £24 - 24€ 
+    * 45 min call - $104 - £44 - 44€
+    * 60 min call - $124 - £64 - 64€
+
+       vii. MIXING
+    * 25min call - $64 - £24 - 24€ 
+    * 45 min call - $104 - £44 - 44€
+    * 60 min call - $124 - £64 - 64€   
+
+       viii.PRODUCING
+    * 25min call - $64 - £24 - 24€ 
+    * 45 min call - $104 - £44 - 44€
+    * 60 min call - $124 - £64 - 64€
+
+       ix. SOUND DESIGNER
+    * 25min call - $64 - £24 - 24€ 
+    * 45 min call - $104 - £44 - 44€
+    * 60 min call - $124 - £64 - 64€
 
  Different prices for EU/UK and overseas clients
+ * Dollars refer to overseas
+ * Pounds for UK
+ * Euros for Eu  
+
+if clauses for ips so as to show different prices 
+
+When somebody book an appointment with me:
+* confirmation email and phone text
+* reminder the same day via email and phone text
 
 6. Events
 
@@ -97,8 +130,7 @@ PENDING
  * appearances and performances etc.
  * Online events: Cources or ads 
  * Tiktok lives
-   
-   
+     
 7. Contact
 
  * Basic contact box
