@@ -2,7 +2,7 @@ Headline: Sophia Emmanouilidou: Composer - Sound Designer, Producer | Flutist & 
 
 colors: orange, navy blue, white and grey 
 
-<u>Languages of the site</u>: English and Greek. The basic site will be in English and Greek is as second language
+<u> Languages of the site </u>: English and Greek. The basic site will be in English and Greek is as second language
 
 My image on the left side 
 The following text as graphic that progresses:
