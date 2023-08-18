@@ -52,7 +52,7 @@ PENDING
  * performances 
    * Written as a timeline of events
   
-5. Book an apointment with me
+5. Book a call with me
 
 * all payments are made by paypal
 
@@ -68,50 +68,81 @@ PENDING
    
    c. as an educator in
      
+   * for each lesson there is a free tutorial course that is a  prerecorded video
+   * depending on the ip this videos will appear in English or Greek     
+
        i. FLUTE
     * 25min call - $44 - £14 - 14€
     * 45 min call - $74 - £34 - 34€
     * 60 min call - $94 - £44 - 44€
+
+    Text: Why somebody to choose me? Watch now a free tutorial course with me
+    Embedded video course link: 
    
        ii. PIANO
     * 25min call - $44 - £14 - 14€
     * 45 min call - $74 - £34 - 34€
     * 60 min call - $94 - £44 - 44€
+
+    Text: Why somebody to choose me? Watch now a free tutorial course with me
+    Embedded video course link: 
       
        iii. VOCALS
     * 25min call - $44 - £14 - 14€
     * 45 min call - $74 - £34 - 34€
     * 60 min call - $94 - £44 - 44€
 
+    Text: Why somebody to choose me? Watch now a free tutorial course with me
+    Embedded video course link: 
+
        iv. MUSIC THEORY 
     * 25min call - $44 - £14 - 14€
     * 45 min call - $74 - £34 - 34€
     * 60 min call - $94 - £44 - 44€
+
+    Text: Why somebody to choose me? Watch now a free tutorial course with me
+    Embedded video course link: 
 
        v. HARMONY
     * 25min call - $44 - £14 - 14€
     * 45 min call - $74 - £34 - 34€
     * 60 min call - $94 - £44 - 44€
 
+    Text: Why somebody to choose me? Watch now a free tutorial course with me
+    Embedded video course link: 
+
        vi. COMPOSITION
     * 25min call - $64 - £24 - 24€ 
     * 45 min call - $104 - £44 - 44€
     * 60 min call - $124 - £64 - 64€
+
+    Text: Why somebody to choose me? Watch now a free tutorial course with me
+    Embedded video course link: 
 
        vii. MIXING
     * 25min call - $64 - £24 - 24€ 
     * 45 min call - $104 - £44 - 44€
     * 60 min call - $124 - £64 - 64€   
 
+    Text: Why somebody to choose me? Watch now a free tutorial course with me
+    Embedded video course link: 
+
        viii.PRODUCING
     * 25min call - $64 - £24 - 24€ 
     * 45 min call - $104 - £44 - 44€
     * 60 min call - $124 - £64 - 64€
 
+    Text: Why somebody to choose me? Watch now a free tutorial course with me
+    Embedded video course link: 
+
        ix. SOUND DESIGNER
     * 25min call - $64 - £24 - 24€ 
     * 45 min call - $104 - £44 - 44€
     * 60 min call - $124 - £64 - 64€
+
+    Text: Why somebody to choose me? Watch now a free tutorial course with me
+    Embedded video course link: 
+
 
  Different prices for EU/UK and overseas clients
  * Dollars refer to overseas
@@ -128,7 +159,7 @@ When somebody book an appointment with me:
 
  * Callendar form
  * appearances and performances etc.
- * Online events: Cources or ads 
+ * Online events: Courses or ads 
  * Tiktok lives
      
 7. Contact
