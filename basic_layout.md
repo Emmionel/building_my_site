@@ -4,6 +4,9 @@ colors: orange, navy blue, white and grey
 
 <u> Languages of the site </u>: English and Greek. The basic site will be in English and Greek is as second language
 
+* Possibility to be also in Dutch and German 
+* Maybe also book other domain names
+
 My image on the left side 
 The following text as graphic that progresses:
 
