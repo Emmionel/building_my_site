@@ -43,6 +43,8 @@ PENDING
  * music toys and little instruments
  * discounts and coupons 
 
+ * all payments are made by paypal or by bank transfer (Revolut, Monese, Alpha Bank, Eurobank, Εθνική, Πειραιώς)
+
 4. Works and Media
 
  * List of written compositions and electroacoustic compositions and productions 
@@ -54,7 +56,8 @@ PENDING
   
 5. Book a call with me
 
-* all payments are made by paypal
+* all payments are made by paypal or by bank transfer (Revolut, Monese, Alpha Bank, Eurobank, Εθνική, Πειραιώς)
+
 
    a. as a musicpreneur
     * 25min call - $64 - £24 - 24€ 
