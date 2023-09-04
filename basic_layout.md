@@ -46,7 +46,32 @@ PENDING
  * music toys and little instruments
  * discounts and coupons 
 
- * all payments are made by paypal or by bank transfer (Revolut, Monese, Alpha Bank, Eurobank, Εθνική, Πειραιώς)
+ * all payments are made by paypal (primary method of payment) and/or by bank transfer (second method)
+ 
+ Paypal:
+ https://www.paypal.me/emmionel
+
+ * button "Pay with Paypal here" big letters
+ * smaller button "alternative methods of payment" 
+
+ Πειραιώς:
+ GR9001722390005239086035457
+
+ Eurobank:
+ GR1602603220000140200594546
+
+ Εθνική:
+ GR6601103300000033000851700
+
+ Alpha Bank:
+ GR7501407050705002310037342
+
+ Monese:
+ GB87TCCL04140445093529
+ BIC/SWIFT: TCCLGB3L
+
+ Revolut:
+ LT923250026674106595
 
 4. Works and Media
 
