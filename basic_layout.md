@@ -1,14 +1,24 @@
+# GOOGLE SEARCH:
+
 Headline: Sophia Emmanouilidou: Composer - Sound Designer, Producer | Flutist & Pianist, Educator by passion
+and my logo 
+
+# MAIN SITE
 
 colors: orange, navy blue, white and grey 
 
 <u> Languages of the site </u>: English and Greek. The basic site will be in English and Greek is as second language
 
 * Possibility to be also in Dutch and German 
-* Maybe also book other domain names
+* Maybe also book other domain names 
 
-My image on the left side 
-The following text as graphic that progresses:
+Navigation Barline:
+1. Home
+ 
+ *  My image on the left side 
+ * catchy phrase conecting my niche
+ 
+As headline the following text as graphic that progresses:
 
 Sophia
 Sonya
@@ -21,10 +31,6 @@ more than a music teacher
 YOUR music teacher
 YOUR music tutor 
 
-Navigation Barline:
-1. Home
-
- * My image and a catchy phrase conecting my niche
  * Recent releases of digital collections
  * All My social as icons
  * Vlog
@@ -35,39 +41,43 @@ Navigation Barline:
 
  * copy past as below:
 
-Welcome to my page, I'd like to take you on a journey through the world of music and beyond.
+Welcome to my page, I'm Sophia Emmanouilidou, and I'd love to invite you into the vibrant tapestry of my musical and academic life.
 
 <image>
 
-My story began in the picturesque city of Thessaloniki, Greece, back in 2013. That's when I first set foot in the world of higher education, embarking on a path that would define my life. I dedicated myself to the art of Music Composition, earning both a Bachelor's and Master's degree from Aristotle University. It was there that I had the privilege of studying under the mentorship of Prof. Michalis Lapidakis and several other accomplished composers.
+My journey began at the heart of Thessaloniki, Greece, in 2013 when I took my first steps into the world of higher education. It was the beginning of a thrilling adventure that would define my path.
+
+I immersed myself in the enchanting realm of Music Composition at Aristotle University, earning both a Bachelor's and a Master's degree under the tutelage of distinguished composers, with Prof. Michalis Lapidakis as my guiding star.  
 
 <image>
 
-In 2020, I decided to set sail for new horizons. I joined the Master's Programme in "Arts and Technologies of Sound" at Ionian University, delving deeper into the fascinating realm of sound. And, believe it or not, my insatiable curiosity led me to explore the world of psychology with further academic studies in this direction.
+In 2020, I decided to set sail for new horizons. I joined the Master's Programme in "Arts and Technologies of Sound" at Ionian University, delving deeper into the fascinating realm of sound under the supervision of Iannis Zannos. 
 
-Today, my creative compass points towards electronic compositions, music programming, and multimedia creations. I'm passionate about blending acoustic instruments with digital elements, creating experiences that bridge the auditory and visual realms. In my years in Aristotle University, I'd co-founded the project "Echotopia," merging music performance and visuals. Along the way, I decided to run other projects that combines those two elements as an indepentent/session artist. 
+Surprisingly, my insatiable curiosity led me to explore the world of psychology with further academic studies.
+
+My current passion lies in electronic compositions, music programming, and the creation of multimedia experiences. I relish the art of combining acoustic instruments with digital elements, crafting synesthetic journeys that bridge the gap between sound and visuals. In my years in Aristotle University, I'd co-founded the project "Echotopia", merging music performance and visuals.  
 
 <image>
 
 My main interest at the moment is to create music projects that harmonize music performance with captivating visuals.
 
-Among my musical accomplishments are  participating in enlightening master classes, academic seminars, conferences and symposiums, and witnessing my compositions come to life on prestigious stages like the Thessaloniki Concert Hall.
+Among my musical accomplishments are  participating in enlightening master classes, academic seminars, conferences and symposiums, and witnessing my compositions come to life on illustrious stages like the Thessaloniki Concert Hall.
 
-But I'm not just a composer. I'm also a versatile musician with diplomas in flute performance, harmony, and counterpoint. I am current a student in fugue style composition at Ano's Polis Concervatory in Thessaloniki. Throughout my journey, I've played a variety of instruments, from guitar and piano to flute, and I've been part of numerous musical ensembles. In 2020, I even took up a seat in an improvisation ensemble, 6daEXIt.
+But I'm not just a composer. I'm also a versatile musician with diplomas in flute performance, harmony, and counterpoint. My musical journey has led me to explore various instruments, from the guitar and piano to the enchanting flute. I've harmonized with diverse musical ensembles, from bands to orchestras and ensembles, even delving into the world of improvisation with the ensemble 6daEXIt in 2020.
 
-In addition to my musical adventures, I work as an orchestrator for the flute orchestra 'Sin+Avlites,' where I'm also an active member. I contribute to the Orchestra of Ano Poli's Conservatory as well. Since 2017, I've had the privilege of sharing my musical expertise through private sessions and with students in various institutions.
+In addition to my musical adventures, I work as an orchestrator for the flute orchestra "Sin+Avlites", where I'm also an active member. My journey also extends to the Orchestra of Ano Poli's Conservatory. Since 2017, I've had the privilege of sharing my musical knowledge and passion through private sessions and within various educational institutions in Greece and abroad.
 
 <image>
 
-I'm more than just a composer; I'm a curious mind always seeking new avenues of creative expression. Join me on this journey, and let's explore the captivating worlds of music, psychology, visuals and everything in between. 
+I'm more than just a composer; I'm a curious mind always seeking new avenues of creative expression. My journey is a testament to my dedication to the harmonious world of melodies and the profound depths of the human psyche. So, welcome to my world, and let's embark on this adventure together. 
+
+Join me on this journey, and let's explore the captivating worlds of music, psychology, visuals and everything in between. 
 
 3. Blog
 
 ..................
 
 4. Shop 
-
-a). Merchandise
 
  * bags, t-shirts and cups with motivational music quotes (dropshipping from temu)
  * stickers and notes (same as above)
@@ -101,10 +111,14 @@ a). Merchandise
  Revolut:
  LT923250026674106595
 
-b) Book a call with me
+5. Services
+
+Book a call with me!
+
+Schedule NOW a 15-min free call and let's get to know each other
+
 
 * all payments are made by paypal or by bank transfer (Revolut, Monese, Alpha Bank, Eurobank, Εθνική, Πειραιώς)
-
 
    a. as a musicpreneur
     * 25min call - $64 - £24 - 24€ 
@@ -185,7 +199,7 @@ b) Book a call with me
     Text: Why somebody to choose me? Watch now a free tutorial course with me
     Embedded video course link: 
 
-       ix. SOUND DESIGNER
+       ix. SOUND DESIGNING
     * 25min call - $64 - £24 - 24€ 
     * 45 min call - $104 - £44 - 44€
     * 60 min call - $124 - £64 - 64€
@@ -193,6 +207,46 @@ b) Book a call with me
     Text: Why somebody to choose me? Watch now a free tutorial course with me
     Embedded video course link: 
 
+    X. DJing 
+    * 25min call - $64 - £24 - 24€ 
+    * 45 min call - $104 - £44 - 44€
+    * 60 min call - $124 - £64 - 64€
+
+    Text: Why somebody to choose me? Watch now a free tutorial course with me
+    Embedded video course link: 
+
+   LESSONS BUNDLES:
+
+   i. Choose Music theory lessons and get also Harmony lessons 25% off!! 
+    * 50min call - $77 - £24.5 - 24.5€
+    * 90 min call music - $129.5 - £59.5 - 59.5€
+    * 120 min call - $164.5 - £77 - 77€
+
+   ii. Choose Composition lessons and get also Harmony lessons 25% off!!
+    * 25min call - $64 - £24 - 24€ 
+    * 45 min call - $104 - £44 - 44€
+    * 60 min call - $124 - £64 - 64€
+   
+   iii. Choose Composition and get also Production 25% off! 
+    * 25min call - $64 - £24 - 24€ 
+    * 45 min call - $104 - £44 - 44€
+    * 60 min call - $124 - £64 - 64€
+
+    iv. Choose Production and get also Mixing 25% off!!
+    * 25min call - $64 - £24 - 24€ 
+    * 45 min call - $104 - £44 - 44€
+    * 60 min call - $124 - £64 - 64€   
+
+    v. Choose Production and get also Djing 25% off!! 
+    * 25min call - $64 - £24 - 24€ 
+    * 45 min call - $104 - £44 - 44€
+    * 60 min call - $124 - £64 - 64€ 
+
+    vi. Choose an Instrument (FLute, Piano, Voice) and get also Music theory Lessons 25% off!! 
+
+    * 50min call instrument and music theory 25min - $77 - £24.5 - 24.5€
+    * 90 min call instrument and music theory - $129.5 - £59.5 - 59.5€
+    * 120 min call instrument and music theory - $164.5 - £77 - 77€
 
  Different prices for EU/UK and overseas clients
  * Dollars refer to overseas
