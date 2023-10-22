@@ -43,13 +43,13 @@ YOUR music tutor
 
 Welcome to my page, I'm Sophia Emmanouilidou, and I'd love to invite you into the vibrant tapestry of my musical and academic life.
 
-<image>
+(image)
 
 My journey began at the heart of Thessaloniki, Greece, in 2013 when I took my first steps into the world of higher education. It was the beginning of a thrilling adventure that would define my path.
 
 I immersed myself in the enchanting realm of Music Composition at Aristotle University, earning both a Bachelor's and a Master's degree under the tutelage of distinguished composers, with Prof. Michalis Lapidakis as my guiding star.  
 
-<image>
+(image)
 
 In 2020, I decided to set sail for new horizons. I joined the Master's Programme in "Arts and Technologies of Sound" at Ionian University, delving deeper into the fascinating realm of sound under the supervision of Iannis Zannos. 
 
@@ -57,7 +57,7 @@ Surprisingly, my insatiable curiosity led me to explore the world of psychology 
 
 My current passion lies in electronic compositions, music programming, and the creation of multimedia experiences. I relish the art of combining acoustic instruments with digital elements, crafting synesthetic journeys that bridge the gap between sound and visuals. In my years in Aristotle University, I'd co-founded the project "Echotopia", merging music performance and visuals.  
 
-<image>
+(image)
 
 My main interest at the moment is to create music projects that harmonize music performance with captivating visuals.
 
@@ -67,7 +67,7 @@ But I'm not just a composer. I'm also a versatile musician with diplomas in flut
 
 In addition to my musical adventures, I work as an orchestrator for the flute orchestra "Sin+Avlites", where I'm also an active member. My journey also extends to the Orchestra of Ano Poli's Conservatory. Since 2017, I've had the privilege of sharing my musical knowledge and passion through private sessions and within various educational institutions in Greece and abroad.
 
-<image>
+(image)
 
 I'm more than just a composer; I'm a curious mind always seeking new avenues of creative expression. My journey is a testament to my dedication to the harmonious world of melodies and the profound depths of the human psyche. So, welcome to my world, and let's embark on this adventure together. 
 
