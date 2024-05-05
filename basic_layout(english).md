@@ -56,25 +56,25 @@ I immersed myself in the enchanting realm of Music Composition at Aristotle Univ
 
 (image)
 
-Throughout my tenure at Aristotle University, I also delved into courses encompassing subjects such as improvisation, piano, music performance, and singing. It was during this period that I encountered electroacoustic music composition and promptly developed a deep affection for it, alongside sound studies. This newfound passion served as a pivotal moment in guiding my subsequent academic and professional aspirations.
+Throughout my tenure at Aristotle University, I also delved into courses encompassing subjects such as improvisation, piano, music performance, and singing. It was during this period that I encountered electroacoustic music composition and promptly developed a deep affection for it, alongside composition studies. This newfound passion served as a pivotal moment in guiding my subsequent academic and professional aspirations for further studies.
 
 (image)
 
-That's why in year 2020, I decided to set sail for new horizons! I joined the Master's Programme (MSc) in "Arts and Technologies of Sound" at Ionian University, delving deeper into the fascinating realm of sound under the supervision of Iannis Zannos. While enrolled at this programme I took electroacoustic composition courses instructed by Professors Andreas Mniestris, Apostolos Loufopoulos, and Theodoros Lotis. During my enrollment in this programme, I encountered music programming with SuperCollider —an experience previously unfamiliar to me— that significantly influenced my development as an artist and performer.
+That's why in year 2020, I decided to set sail for new horizons! I joined the Master's Programme (MSc) in "Arts and Technologies of Sound" at Ionian University, delving deeper into the fascinating realm of sound under the supervision of Iannis Zannos. While enrolled at this programme I took electroacoustic composition courses instructed by Professors Andreas Mniestris, Apostolos Loufopoulos, and Theodoros Lotis. During my enrollment, I encountered music programming with SuperCollider —an experience previously unfamiliar to me— that significantly influenced my development as an artist and performer.
 
 Surprisingly, my insatiable curiosity led me to explore the world of psychology with further academic studies. In year 2023 I enrolled in an online Bachelor's of Arts degree offered by Università eCampus specialzed in "Sciences and Techniques of Psychology".
 
 (image)
 
-My current passion lies in acpoustic/electronic/electroacoustic compositions, music programming, and the creation of multimedia experiences as well as pop art! I relish the art of combining acoustic instruments with digital elements, crafting narrative synesthetic journeys that bridge the gap between sound and visuals. In my years in Aristotle University, I'd co-founded the project "Echotopia", merging music performance and visuals. The following years I developed numerous of projects with artists, among others I was a co-founder of Onyx Duet and Viva Vox Composers.  
+My current passion lies in acoustic/electronic/electroacoustic compositions, music programming, and the creation of multimedia experiences as well as pop art! I relish the art of combining acoustic instruments with digital elements, crafting narrative synesthetic journeys that bridge the gap between sound and visuals. In my years in Aristotle University, I'd co-founded the project "Echotopia", merging music performance and visuals. The following years I developed numerous of projects with artists, among others I was a co-founder of "Onyx Duet" and "Viva Vox Composers".  
 
 (image)
 
-My main interest at the moment is to create multimedia projects that harmonize music/sound performance with captivating visuals/film and/or other fields of art experpression, such dance and poetry. I am also keen to pop art, which means that I like to engage in music production projects, sound engeneering, sound designing as well as Djing! That's why in year 2024, I focused on taking job vacancies as a contractor in various institutions and recording labels/studios and collaborate with artist from the greek pop scene.   
+My main interest at the moment is to create multimedia projects that harmonize music/sound performances with captivating visuals/film and/or other fields of art expression, such dance and poetry. I am also keen to pop art, which means that I like to engage in music production projects, sound engeneering, sound designing as well as Djing! That's why in year 2024, I focused on taking job opportunities as a contractor in various institutions and recording labels/studios and collaborate with artist from the greek pop scene.   
 
 (image)
 
-Among my musical accomplishments are  participating in enlightening master classes, academic seminars, conferences and symposiums, and witnessing my compositions come to life on illustrious stages in Greece and abroad. I took composition master classes with Mark Andre, Malin Bång, Bryan Ferneyhough, Jana Luksts, Cristian Benvenuti, and Reinhold Friedl.
+Among my musical accomplishments are  participating in enlightening master classes, academic seminars, conferences and symposiums, and witnessing my compositions come to life on illustrious stages in Greece and abroad(Italy, Austria, Spain, Romania, Estonia). I took composition master classes with Mark Andre, Malin Bång, Bryan Ferneyhough, Jana Luksts, Cristian Benvenuti, and Reinhold Friedl.
 
 (image)
 
@@ -89,6 +89,8 @@ In order to deliver the best of my knowldge as an Educator, I took seminars and 
 I'm more than just a composer; I'm a curious artistic mind always seeking new avenues of creative expression. My journey is a testament to my dedication to the harmonious world of melodies and music and the profound depths of the human psyche. So, welcome to my world, and let's embark on this adventure together. 
 
 Join me on this journey, and let's explore the captivating worlds of music, psychology, visuals and everything in between. 
+
+- My extended CV as a Tree of Events
 
 3. Blog/Vlog
 
